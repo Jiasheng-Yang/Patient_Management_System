@@ -2,7 +2,7 @@
 
 
 ## Database (through Navicat)
-Use "**patient.sql**" file to create the database, called patients; create the table, called Patients, and insert the initial patient infomation through **Navicat** or other database management tool. (Recommend **Navicat**). Lastly, set the initial user name and password below. 
+Use "**patient.sql**" file to create the database, called patients; create the table, called Patients, and insert the initial patient infomation through **Navicat** or other database management tool. (Recommend **[Navicat](https://www.navicat.com/en/)**). Lastly, set the initial user name and password below. 
 ```
 user = "root"
 password = "111"
@@ -12,7 +12,7 @@ Or you might need to modify the user and password in the **Datebase.java** file,
 
 ## Execute
 Open "**PMS_jar**" folder, click "**PMS.jar**" file, the *Print* operation will export the "**Patient-Name.txt**" file in the folder. The main method to run the system is in the "**LoginInterface.java**" file. You need to check the "**user.txt**" to get the user name.
-Or you can use Command Lind open "**PMS**" folder, compiling *.java* file. (should set the library **JDBC** before). Then run "**LoginInterface.java**".
+Or you can use Command Lind open "**PMS**" folder, compiling *.java* file. (should set the library **[JDBC](https://downloads.mysql.com/archives/c-j/)** before). Then run "**LoginInterface.java**".
 ```
 javac *.java
 java LoginInterface.java

@@ -1,0 +1,14 @@
+Patient_ID:1
+Patient_Name:Otte
+Age:47
+Gender:M
+Address:1005 S Beaver St.
+Phone:520-491-0477
+Email:pl384@nau.edu
+SSN:123-45-6789
+Hospitalization_Date:07/28/2022
+Symptom:COVID-19
+Treatment:Tylenol
+Recovery_Date:08/01/2022
+After_Treatment:Fine
+Attending_Physician:Jiasheng
